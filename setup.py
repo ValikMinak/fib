@@ -1,7 +1,7 @@
 from setuptools import find_packages, setup
 
 setup(
-    name="flitton_fib_py",
+    name="ssshikari_fib_py",
     version="0.0.1",
     author="ssshikari",
     author_email="ssshikari@gmail.com",
