@@ -1,4 +1,3 @@
-# trigger build (04-05-2022)
 def recurring_fibonacci_number(number: int) -> int:
     if number < 0:
         raise ValueError(
