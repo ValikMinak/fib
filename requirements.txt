@@ -19,7 +19,3 @@ twine==4.0.0
 urllib3==1.26.9
 webencodings==0.5.1
 zipp==3.8.0
-
-extras_require={
-'server': ["Flask>=1.0.0"]
-},
